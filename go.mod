@@ -1,3 +1,3 @@
-module github.com/mect-drive/practise-go
+module practose-go
 
 go 1.23.1
