@@ -1,3 +1,3 @@
-module practose-go
+module practise-go
 
 go 1.23.1
